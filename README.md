@@ -1,1 +1,1 @@
-# loyalty-export-api
+# Loyalty Export API
